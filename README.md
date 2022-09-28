@@ -25,4 +25,4 @@ The Federal Bureau of Investigation always recruit new agents for many divisions
 **Step 4**: Repeat step 2 by comparing whether T or C has a better success rate depending on each division. To prove this statement, we conduct a hypothesis test to assess the plausibility of our claim for each division.
 
 ## Results 
-![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![](FBI_Divisions.png)
