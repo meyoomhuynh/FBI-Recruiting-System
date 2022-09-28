@@ -39,4 +39,8 @@ On the granular level (Figure 2), we have the success rate between T and C syste
  
  ![](FBI_Table2.png)
  
-The result from the hypothesis testing is that five out of six division (criminal, HR, IT, national security, science & tech) reject the null hypothesis. Only intellgience division accepts the null hypothesis. This outcome shows that according to the **five divisions** (criminal, HR, IT, national security, science & tech), **old system is worse than the new system**. According to the **intelligence division, the new system is worse than the old system.** 
+The result from the hypothesis testing is that five out of six division (criminal, HR, IT, national security, science & tech) reject the null hypothesis. Only intellgience division accepts the null hypothesis. This outcome shows that according to the five divisions (criminal, HR, IT, national security, science & tech), old system is worse than the new system. According to the intelligence division, the new system is worse than the old system.
+
+## Conclusion
+Hypothesis testing on a **comprehensive level** confirms that the **old system is more effective at graduating recruits**. However, the hypothesis testing on **granular level** confirms that the **new system is more effective**. Since the application process requires applicants to apply through divisions, if the FBI eventually wants to implement a new recruiting model, the team should **use the new system instead of the old system.**
+
