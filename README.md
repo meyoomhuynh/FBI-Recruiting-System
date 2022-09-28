@@ -25,12 +25,18 @@ The Federal Bureau of Investigation always recruit new agents for many divisions
 **Step 4**: Repeat step 2 by comparing whether T or C has a better success rate depending on each division. To prove this statement, we conduct a hypothesis test to assess the plausibility of our claim for each division.
 
 ## Results 
-![](FBI_NewvsOld.png)
+![](FBI_newvsold.png)
 
+The comparison above (Figure 1) leads us to our first hypothesis testing (Table 1). 
 
-The comparison above (Figure 1) leads us to our first hypothesis testing (Table 1). Since we are comparing the new system to the old system, in the table below, our null hypothesis (no special event to see here) is the probability of having a success rate of 41%. 
+![](FBI_table_1.png)
 
-![](FBI_Table1.png)
+Since we are comparing the new system to the old system, in the table above, our null hypothesis (no special event to see here) is the probability of having a success rate of 41%. With the hypothesis testing result, we can safely conclude that the new system is indeed worse than the old system on a comprehensive level. 
 
+![](FBI_Divisions.png)
 
-
+On the granular level (Figure 2), we have the success rate between T and C system on granular level. Overall, the trend shows that new system has a higher success rate across all divisions. The result above (Figure 2) leads us to our second hypothesis test (Table 2). 
+ 
+ ![](FBI_Table2.png)
+ 
+The result from the hypothesis testing is that five out of six division (criminal, HR, IT, national security, science & tech) reject the null hypothesis. Only intellgience division accepts the null hypothesis. This outcome shows that according to the **five divisions** (criminal, HR, IT, national security, science & tech), **old system is worse than the new system**. According to the **intelligence division, the new system is worse than the old system.** 
