@@ -1,4 +1,5 @@
 # FBI Recruiting System
+
 ## Project Overview 
 The Federal Bureau of Investigation always recruit new agents for many divisions within their bureau. However, many recruits do not complete their program and drop off somewhere within the recruiting processes. The FBI wants to resolve this problem by setting up a controlled experiment. Some applicants will be assigning with the old system (C) and some applicants with the new system (T). 
 #### Main Agenda: 
@@ -10,6 +11,7 @@ The Federal Bureau of Investigation always recruit new agents for many divisions
 * Group (T or C)
 * Step (application, background check, aptitude assessment, academy graduation or weapons training)
 * Step date (what month, date, year that the step was taken)
+
 ## Approach
 **Step 1**: Calculate each system’s success rate (comprehensive level). Compare the effectiveness of the new system through (not consider divisions). 
 **Success Rate** = Total of Recruits in Weapon Training/Total of Recruits in Application
@@ -21,3 +23,6 @@ The Federal Bureau of Investigation always recruit new agents for many divisions
 **Step 3**: Therefore, we repeat step 1. This time, it's by division (granular level). At this stage, we calculate each system’s success rate from each division.
 
 **Step 4**: Repeat step 2 by comparing whether T or C has a better success rate depending on each division. To prove this statement, we conduct a hypothesis test to assess the plausibility of our claim for each division.
+
+## Results 
+![](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
