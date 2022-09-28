@@ -26,3 +26,11 @@ The Federal Bureau of Investigation always recruit new agents for many divisions
 
 ## Results 
 ![](FBI_NewvsOld.png)
+
+
+The comparison above (Figure 1) leads us to our first hypothesis testing (Table 1). Since we are comparing the new system to the old system, in the table below, our null hypothesis (no special event to see here) is the probability of having a success rate of 41%. 
+
+![](FBI_Table1.png)
+
+
+
